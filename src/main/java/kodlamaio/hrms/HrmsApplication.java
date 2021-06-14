@@ -24,4 +24,5 @@ public class HrmsApplication {
           .paths(PathSelectors.any())                          
           .build();                                           
     }
+	
 }
